@@ -1,0 +1,16 @@
+TerraGo_Wayanad/
+├── index.html
+└── Assets/
+    ├── css/
+    │   └── style.css
+    ├── js/
+    │   └── script.js
+    ├── documents/
+    │   ├── README.txt
+    │   └── PROJECT_STRUCTURE.txt
+    └── images/
+        └── README.txt
+
+Open index.html from this extracted main folder.
+Keep the Assets folder beside index.html.
+Photographs are currently loaded from official DTPC Wayanad image URLs.
